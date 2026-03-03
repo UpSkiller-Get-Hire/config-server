@@ -4,4 +4,11 @@
 # Ignore Gradle build output directory
 build
 
-app/target
+# Maven
+target/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
